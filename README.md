@@ -24,7 +24,7 @@
 | 17  | Nama Siswa 17       | [Belum/Menunggu/OK]| [Link Tugas 17](URL_Tugas_17)  |
 | 18  | Nama Siswa 18       | [Belum/Menunggu/OK]| [Link Tugas 18](URL_Tugas_18)  |
 | 19  | Nama Siswa 19       | [Belum/Menunggu/OK]| [Link Tugas 19](URL_Tugas_19)  |
-| 20  | Nama Siswa 20       | [Belum/Menunggu/OK]| [Link Tugas 20](URL_Tugas_20)  |
+| 20  | Elang Rengga FY       | OK| [Link Tugas 20](https://github.com/ElangRengga/app-jsonplaceholder)  |
 | 21  | Ferdyansyah N.S      | OK| [Link Tugas 21](https://github.com/ferdynursaputra/app-jsonPlaceholder)  |
 | 22  | Nama Siswa 22       | [Belum/Menunggu/OK]| [Link Tugas 22](URL_Tugas_22)  |
 | 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
